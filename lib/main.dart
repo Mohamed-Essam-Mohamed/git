@@ -32,6 +32,7 @@ class HomeScreen extends StatelessWidget {
         children: [
           Text('Home Screen added splash screen'),
           Text("Splash mohamed esam , android 11 and ios 15"),
+          Text(" ahmed esam , added home screen"),
         ],
       ),
     );
