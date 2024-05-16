@@ -37,6 +37,11 @@ class HomeScreen extends StatelessWidget {
           Text('Home Screen added splash screen'),
           Text('Home Screen added splash screen'),
           Text('Home Screen added splash Mohamed'),
+          Text('Home Screen added splash Mohamed'),
+          Text('Home Screen added splash Mohamed'),
+          Text('Home Screen added splash Mohamed'),
+          Text('Home Screen added splash Mohamed'),
+          Text('Home Screen added splash Ahmed'),
         ],
       ),
     );
